@@ -1,0 +1,16 @@
+[info]
+class = ""
+subject = ""
+title = "Examen d'art français"
+subtitle = ""
+date = ""
+authors = ""
+
+[points]
+total = 100
+
+# List of students with name = points
+[students]
+name_1 = 100
+"name 2" = 100
+# ...
